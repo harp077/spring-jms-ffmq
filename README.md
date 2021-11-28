@@ -1,2 +1,2 @@
 # 
-spring-4.3.25 + jms-1.1 + activemq-5.11.3 demo
+spring-5.0.15 + jms-1.1 + ffmq4-4.0.12 demo
