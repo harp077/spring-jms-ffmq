@@ -27,7 +27,7 @@
         
         <dependency>
             <groupId>net.timewalker.ffmq</groupId>
-            <artifactId>ffmq4-core</artifactId>
+            <artifactId>ffmq4-server</artifactId>
             <version>4.0.12</version>
         </dependency>
         
